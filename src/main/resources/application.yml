@@ -1,0 +1,12 @@
+
+
+
+
+
+
+spring:
+  rabbitmq:
+    virtual-host: docker-mq-vhost
+    username: root
+    password: root
+
